@@ -11,7 +11,7 @@ Ubuntu 24.04ベースにClaude Codeをインストールしています。
 
 ```json
 {
-  "image": "ghcr.io/<your-github-username>/claudecode-devcontainer:latest",
+  "image": "ghcr.io/fosawa/claudecode-devcontainer:latest",
   "remoteUser": "vscode",
   "containerUser": "vscode"
 }
